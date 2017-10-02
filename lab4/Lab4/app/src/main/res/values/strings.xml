@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sports-centric</string>
+    <string name="main_title">Soccer Team Manager</string>
+    <string name="hint_name">(Please enter a team name)</string>
+    <string name="team_name">Team Name</string>
+    <string name="open_in_maps">OPEN IN GOOGLE MAPS</string>
+</resources>
